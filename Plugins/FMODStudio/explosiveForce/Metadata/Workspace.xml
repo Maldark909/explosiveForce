@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{72271b77-4eed-428c-a245-13918454bbf6}">
+		<property name="builtBanksOutputDirectory">
+			<value>F:/Repos/explosiveForce/Plugins/FMODStudio/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{8a803e74-743d-445b-b2c4-f382058f73cc}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{071b1f60-2b73-49a8-950f-7fe0f6fb6af5}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{440e90dc-47a2-4c75-a01a-80079a7b393c}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{c5e032c2-fe6c-4aba-8b3c-5fe50dc9d1b4}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{deb784a6-9c03-4f84-b461-50370c70f453}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{1ecaebd9-e4fb-4b54-82fd-8cdb557787b6}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{112db854-e734-48a2-be5c-d9e0d96dcf4d}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{e944de14-9a10-4ae3-9711-3e3850e89e21}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{182d5ec3-7baf-4741-9e0d-5bd1e0222e6f}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{201642b1-bcf3-42e2-bbe0-58d9b983a0c7}</destination>
+		</relationship>
+	</object>
+</objects>

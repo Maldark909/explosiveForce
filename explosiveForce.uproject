@@ -21,6 +21,7 @@
 		"Linux",
 		"LinuxArm64",
 		"Mac",
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
